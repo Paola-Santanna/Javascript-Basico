@@ -1,7 +1,7 @@
 # Javascript-Basico
 Estudo da Linguagem Javascript
 
-<h1>Para Quê Serve?</h1>
+<h1>Javascript no Mundo</h1>
 <h1>Formatação de Saída</h1>
 <h1>Tipos de Variáveis</h1>
 <h1>Estruturas Condicionais</h1>
